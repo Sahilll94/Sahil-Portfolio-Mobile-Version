@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+
+# Expo-specific files and directories
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native build and configuration files
+*.orig.*
+*.jks       # Java Keystore
+*.p8        # Private key for Apple Push Notifications
+*.p12       # PKCS12 file for certificates
+*.key       # Private key files
+*.mobileprovision # iOS provisioning profile
+
+# Metro bundler health check file
+.metro-health-check*
+
+# Debug files
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS-specific files
+.DS_Store
+*.pem       # PEM key files
+
+# Local environment files (custom configs)
+.env*.local
+.env        # General .env files to store secrets
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Firebase configuration and sensitive files
+fcmdemo-27fff-firebase-adminsdk-fbsvc-ece685722b.json
+google-services.json
+
+# App-specific JSON files
+app.json
+eas.json
+
+# Additional protection
+*.log       # Log files
+*.backup    # Backup files
