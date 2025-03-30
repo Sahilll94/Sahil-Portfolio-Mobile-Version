@@ -3,7 +3,12 @@
 - This app has feature where I can send you notifications.
 
 ## Application Overview
-![ApplicationOverview](./assets/appOverview.png)
+<div align = "center">
+<img src="./assets/appOverview.png" width="300" height="760" />
+</div>
 
 ## Notification Overview
-![notificationOverview](./assets/notificationOverview.png)
+<div align="center">
+  <img src="./assets/notificationOverview.png" width="300" height="700" />
+</div>
+
